@@ -25,7 +25,11 @@ Percebemos uma dificuldade significativa na comunicação entre escolas e famíl
 
 ***1.3.  Análise dos sistemas concorrentes***
 
-Analise  duas (2) soluções concorrentes e as descreva no contexto do seu problema. Você pode considerar alternativas não computacionais como concorrentes.
+***1 - Moodle***
+
+O Moodle é uma plataforma versátil e personalizável que pode resolver a parte de comunicação entre escolas e famílias. Ele permite que as escolas compartilhem informações importantes, como desempenho acadêmico dos alunos e eventos escolares. Além disso, oferece recursos para suporte educacional online, como materiais de curso e atividades de avaliação. Também facilita o trabalho remoto para alunos e professores, promovendo a colaboração sincrona, mesmo fora do ambiente escolar. No entanto, o Moodle como solução para esses problemas depende da implementação adequada por parte das escolas e da adoção efetiva por parte dos pais, alunos e professores. 
+
+***2 -***
 
 ***1.2.  Público Alvo***
 
