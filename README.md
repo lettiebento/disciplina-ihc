@@ -35,7 +35,9 @@ O Moodle é uma plataforma versátil e personalizável que pode resolver a parte
 
 Realize uma pesquisa sobre os seus potenciais usuários considerando as alternativas abaixo:
 
-**Opção 1:** Crie um questionário e aplique-o  com potenciais usuários reais  (pelo menos 10 pessoas). Anexe o seu questionário e as respostas obtidas (prints do Google Forms).  Apresente uma análise  resumida das respostas do questionário.  Observação: respostas ao questionário devem ser anônimas.
+**Opção 1:** Crie um questionário e aplique-o  com potenciais usuários reais  (pelo menos 10 pessoas): https://docs.google.com/forms/d/1SB9vRQmVUXnCI0F9gIPK8ea80lIQc6L4Kre17jp9EQY/edit#responses
+
+Anexe o seu questionário e as respostas obtidas (prints do Google Forms).  Apresente uma análise  resumida das respostas do questionário.  Observação: respostas ao questionário devem ser anônimas.
 
 **Opção 2:** Crie um roteiro de entrevista semiestruturada e aplique-a com um ou mais especialistas no domínio de sua solução. Lembre-se que as questões devem ajudar a entender, além do domínio, as necessidades do seu público-alvo. Anexe o roteiro e a transcrição das respostas coletas.
 
