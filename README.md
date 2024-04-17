@@ -7,10 +7,15 @@ Olá! Este repositório faz parte do projeto da disciplina de Interação Homem 
 ## 1. Introdução (Até dia 04/04)
 
 ***1.1.  Code Student***
+
 Letícia Bento Pinto
+
 Samilly Emanuelle Lopes de Deus
+
 João Flavio Loureiro Silva
+
 Pedro Henrique de Oliveira Bicalho
+
 João Marcelo Seron Junqueira Amorin
 
 
