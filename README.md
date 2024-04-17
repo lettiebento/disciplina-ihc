@@ -14,7 +14,7 @@ Samilly Emanuelle Lopes de Deus
 
 João Flavio Loureiro Silva
 
-Pedro Henrique de Oliveira Bicalho
+Pedro Henrique de Oliveira Bicalho - PedroBiklho
 
 João Marcelo Seron Junqueira Amorin
 
