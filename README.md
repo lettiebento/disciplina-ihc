@@ -46,7 +46,9 @@ Realize uma pesquisa sobre os seus potenciais usuários considerando as alternat
 ***Persona A:***
 
 Nome: Regina da Silva
+
 Idade: 37 anos
+
 Gênero: Feminino
 
 Objetivo: Regina pretende acompanhar de perto o desempenho acadêmico de seu filho, garantindo que ele tenha o suporte necessário para ter sucesso na escola. Ela busca acesso fácil e rápido a informações como notas, eventos escolares e comunicados da instituição.
@@ -76,7 +78,9 @@ Motivação: Além de sua paixão pelo ensino, Silvia também é interessada em 
 ***Persona C:***
 
 Nome: Valentina Almeida
+
 Idade: 15 anos
+
 Gênero: Feminino
 
 Objetivo: Valentina é uma aluna caprichosa que busca sempre priorizar sua educação. Embora goste de socializar e tenha seus hobbies, dedica uma boa parte do tempo a seus estudos, pois sabe que seus pais fazem o possível para oferecer as melhores oportunidades para ela. Mesmo que ainda esteja no primeiro ano do ensino médio, Valentina já tenta se preparar para o vestibular.
