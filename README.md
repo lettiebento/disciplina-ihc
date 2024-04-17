@@ -43,7 +43,49 @@ Realize uma pesquisa sobre os seus potenciais usuários considerando as alternat
 
 ***2.1. Descrição dos Usuários: Personas***
 
-Descreva os usuários da sua solução a partir das conclusões da análise das respostas do questionário aplicado com usuários.
+***Persona A:***
+
+Nome: Regina da Silva
+Idade: 37 anos
+Gênero: Feminino
+
+Objetivo: Regina pretende acompanhar de perto o desempenho acadêmico de seu filho, garantindo que ele tenha o suporte necessário para ter sucesso na escola. Ela busca acesso fácil e rápido a informações como notas, eventos escolares e comunicados da instituição.
+
+Motivação: O amor e o desejo de proporcionar o melhor futuro possível para seu filho são as principais motivações de Regina. Ela quer estar presente em todas as etapas da vida escolar dele, garantindo que ele receba a educação adequada e tenha todas as oportunidades para crescer e se desenvolver.
+
+Dificuldades: Como mãe solteira, Regina enfrenta desafios em equilibrar sua vida pessoal, profissional e o cuidado com seu filho. Ela muitas vezes se sente sobrecarregada e preocupada com a responsabilidade de criar seu filho sozinha, especialmente quando se trata de garantir seu sucesso na escola.
+
+Habilidades: Regina tem habilidades básicas em tecnologia. Ela usa redes sociais populares como Facebook, Instagram e WhatsApp e navega na internet para buscar informações importantes. Embora não seja uma especialista em tecnologia, ela está disposta a aprender e usar novas ferramentas que facilitem sua vida e ajudem na educação de seu filho.
+
+***Persona B:***
+
+Nome: Silvia Martins
+
+Idade: 43 anos
+
+Profissão: Professora de Ensino Médio
+
+Habilidades: A professora Silvia é uma educadora dedicada e apaixonada por ensinar. Ela tem 15 anos de experiência no ensino médio e sempre procura envolver tecnologia em sala de aula. Silvia é conhecida por sua abordagem dinâmica e criativa em sala de aula, tornando o aprendizado interessante e relevante para os alunos.
+
+Dificuldades: Apesar de sua familiaridade com tecnologia, Silvia enfrenta desafios ao incorporar novas ferramentas digitais em suas aulas. Ela muitas vezes se sente sobrecarregada com a quantidade de opções disponíveis e nem sempre sabe qual é a melhor escolha para suas necessidades específicas. E a falta de intuito dos pais.
+
+Objetivos: Silvia busca maneiras de utilizar a tecnologia de forma eficaz para melhorar a experiência de aprendizado de seus alunos. Ela está interessada em aprender mais sobre como integrar a tecnologia de maneira significativa em suas aulas, de forma a promover a participação dos alunos e aumentar seu engajamento com o conteúdo.
+
+Motivação: Além de sua paixão pelo ensino, Silvia também é interessada em literatura, arte e música. Ela gosta de ler e frequentemente busca novas maneiras de incorporar elementos culturais em suas aulas para enriquecer a experiência de aprendizado de seus alunos.
+
+***Persona C:***
+
+Nome: Valentina Almeida
+Idade: 15 anos
+Gênero: Feminino
+
+Objetivo: Valentina é uma aluna caprichosa que busca sempre priorizar sua educação. Embora goste de socializar e tenha seus hobbies, dedica uma boa parte do tempo a seus estudos, pois sabe que seus pais fazem o possível para oferecer as melhores oportunidades para ela. Mesmo que ainda esteja no primeiro ano do ensino médio, Valentina já tenta se preparar para o vestibular.
+
+Motivação: Valentina está sempre buscando se destacar no que faz, o que é uma grande cobrança sobre si mesma, mas também traz resultados. Ela deseja aprender cada vez mais e de maneira eficiente, podendo sanar suas dúvidas e desenvolver seu conhecimento de maneira sólida.
+
+Dificuldades: Apesar de ser vista como uma aluna de excelência, Valentina tem um problema: o estresse, causado pela estimada auto cobrança. Sendo filha única, sabe que os pais têm grandes expectativas, além dos professores que já esperam um grande futuro. Em alguns momentos ela se sente extremamente esgotada, além de frustrada quando não atinge o desempenho esperado, porém não acha abertura para falar com seus pais, geralmente desabafando com professores.
+
+Habilidades: Valentina tem habilidades intermediárias com tecnologia e também uma certa facilidade em compreendê-las, por ser de uma geração que cresceu com esse avanço. Utiliza redes sociais como Twitter, Instagram e WhatsApp. Sabe navegar por sites web e os usa diariamente conforme necessário. Gosta de jogar no tempo livre e se dá bem com sistemas novos.
 
 ***2.2. Análise de Tarefas: ANTES***
 
