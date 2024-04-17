@@ -8,7 +8,7 @@ Olá! Este repositório faz parte do projeto da disciplina de Interação Homem 
 
 ***1.1.  Code Student***
 
-Letícia Bento Pinto
+Letícia Bento Pinto - lettiebento
 
 Samilly Emanuelle Lopes de Deus
 
