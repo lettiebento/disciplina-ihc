@@ -21,7 +21,7 @@ João Marcelo Seron Junqueira Amorin
 
 ***1.2.  Problema***
 
-Descreva a situação atual e o problema que sua solução computacional visa resolver.
+Percebemos uma dificuldade significativa na comunicação entre escolas e famílias. Muitas vezes, informações cruciais sobre o desempenho acadêmico dos alunos ou eventos escolares não são comunicadas de maneira eficiente, deixando os pais desinformados e os alunos perdendo oportunidades de envolvimento. Além disso, identificamis uma demanda por suporte educacional online e ferramentas de colaboração remota acessíveis e fáceis de usar.
 
 ***1.3.  Análise dos sistemas concorrentes***
 
