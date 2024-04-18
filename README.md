@@ -10,13 +10,13 @@ Olá! Este repositório faz parte do projeto da disciplina de Interação Homem 
 
 Letícia Bento Pinto - lettiebento
 
-Samilly Emanuelle Lopes de Deus
+Samilly Emanuelle Lopes de Deus - SammyManu
 
-João Flavio Loureiro Silva
+João Flavio Loureiro Silva - skgaa
 
 Pedro Henrique de Oliveira Bicalho - PedroBiklho
 
-João Marcelo Seron Junqueira Amorin
+João Marcelo Seron Junqueira Amorin - Jmsja10
 
 
 ***1.2.  Problema***
@@ -27,9 +27,11 @@ Percebemos uma dificuldade significativa na comunicação entre escolas e famíl
 
 ***1 - Moodle***
 
-O Moodle é uma plataforma versátil e personalizável que pode resolver a parte de comunicação entre escolas e famílias. Ele permite que as escolas compartilhem informações importantes, como desempenho acadêmico dos alunos e eventos escolares. Além disso, oferece recursos para suporte educacional online, como materiais de curso e atividades de avaliação. Também facilita o trabalho remoto para alunos e professores, promovendo a colaboração sincrona, mesmo fora do ambiente escolar. No entanto, o Moodle como solução para esses problemas depende da implementação adequada por parte das escolas e da adoção efetiva por parte dos pais, alunos e professores. 
+O Moodle é uma plataforma versátil e personalizável que pode resolver a parte de comunicação entre escolas e famílias. Ele permite que as escolas compartilhem informações importantes, como desempenho acadêmico dos alunos e eventos escolares. Além disso, oferece recursos para suporte educacional online, como materiais de curso e atividades de avaliação. Também facilita o trabalho remoto para alunos e professores, promovendo a colaboração, mesmo fora do ambiente escolar. No entanto, o Moodle como solução para esses problemas depende da implementação adequada por parte das escolas e da adoção efetiva por parte dos pais, alunos e professores. 
 
-***2 -***
+***2 - Plurall***
+
+O Plurall é uma plataforma educacional oferecida para as escolas parceiras da SOMOS Educação. Por ser totalmente digital, pode ser acessado em qualquer lugar e a qualquer momento, tanto pelo navegador do computador quanto pelo aplicativo, em versões Android e iOS. A ferramenta disponibiliza listas de exercícios para que os alunos possam praticar o que aprenderam em sala de aula e vídeos para apoiar a realização das tarefas. Além disso, a plataforma conta com tutores prontos para responder a dúvidas que podem surgir durante a realização das atividades e em relação ao conteúdo do material didático. Além disso, escolas e responsáveis têm acesso a relatórios de desempenho que mostram os resultados de cada aluno. Um dos pontos negativos é que atualmente este serviço não é muito acessível em escolas públicas, visto a necessidade de parceria com a SOMOS.
 
 ***1.2.  Público Alvo***
 
