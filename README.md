@@ -41,7 +41,10 @@ Realize uma pesquisa sobre os seus potenciais usuários considerando as alternat
 
 Anexe o seu questionário e as respostas obtidas (prints do Google Forms).  Apresente uma análise  resumida das respostas do questionário.  Observação: respostas ao questionário devem ser anônimas.
 
-**Opção 2:** Crie um roteiro de entrevista semiestruturada e aplique-a com um ou mais especialistas no domínio de sua solução. Lembre-se que as questões devem ajudar a entender, além do domínio, as necessidades do seu público-alvo. Anexe o roteiro e a transcrição das respostas coletas.
+**Entrevista:** A entrevista foi conduzida exclusivamente com uma mulher de 48 anos que atua como coordenadora pedagógica. Ela utiliza o computador e o celular em seu trabalho, com uma média de 5 horas de uso diário. Ela emprega o WhatsApp como principal meio de comunicação com pais e alunos, utilizando no computador, embora seja originalmente um aplicativo móvel. Apesar da franquia oferecer um software próprio com todas as ferramentas necessárias, tanto os pais quanto colaboradores preferem utilizar o WhatsApp para se comunicar. Ela ressalta que, por ser uma escola de inglês, é necessário ter a prática de conversação e as aulas de reforço devem ser exclusivas, individuais e síncrona com o aluno. O sistema deles também informa as notas, material, frequência do aluno, recados, o que é mais utilizado pelos professores. 
+
+
+
 
 ## 2. Perfil do usuário (Até dia 18/04)
 
