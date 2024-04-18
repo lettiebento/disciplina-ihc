@@ -49,6 +49,8 @@ Anexe o seu questionário e as respostas obtidas (prints do Google Forms).  Apre
 
 ***Persona A:***
 
+![Mãe](https://github.com/lettiebento/disciplina-ihc/assets/165064276/175c982c-1fa4-445e-af49-95dd48742efd)
+
 Nome: Regina da Silva
 
 Idade: 37 anos
@@ -67,6 +69,8 @@ Habilidades: Regina tem habilidades básicas em tecnologia. Ela usa redes sociai
 
 Nome: Silvia Martins
 
+![Professora](https://github.com/lettiebento/disciplina-ihc/assets/165064276/3de67e17-e1fd-44ae-bc58-d65180c0a04a)
+
 Idade: 43 anos
 
 Profissão: Professora de Ensino Médio
@@ -80,6 +84,8 @@ Objetivos: Silvia busca maneiras de utilizar a tecnologia de forma eficaz para m
 Motivação: Além de sua paixão pelo ensino, Silvia também é interessada em literatura, arte e música. Ela gosta de ler e frequentemente busca novas maneiras de incorporar elementos culturais em suas aulas para enriquecer a experiência de aprendizado de seus alunos.
 
 ***Persona C:***
+
+![Aluna](https://github.com/lettiebento/disciplina-ihc/assets/165064276/a1c0d3e1-adc8-4055-b9c3-69331f2047f7)
 
 Nome: Valentina Almeida
 
