@@ -43,8 +43,7 @@ Anexe o seu questionário e as respostas obtidas (prints do Google Forms).  Apre
 
 **Entrevista:** A entrevista foi conduzida exclusivamente com uma mulher de 48 anos que atua como coordenadora pedagógica. Ela utiliza o computador e o celular em seu trabalho, com uma média de 5 horas de uso diário. Ela emprega o WhatsApp como principal meio de comunicação com pais e alunos, utilizando no computador, embora seja originalmente um aplicativo móvel. Apesar da franquia oferecer um software próprio com todas as ferramentas necessárias, tanto os pais quanto colaboradores preferem utilizar o WhatsApp para se comunicar. Ela ressalta que, por ser uma escola de inglês, é necessário ter a prática de conversação e as aulas de reforço devem ser exclusivas, individuais e síncrona com o aluno. O sistema deles também informa as notas, material, frequência do aluno, recados, o que é mais utilizado pelos professores. 
 
-
-
+[Entrevista Semiestruturada - IHC.pdf](https://github.com/lettiebento/disciplina-ihc/files/15040768/Entrevista.Semiestruturada.-.IHC.pdf)
 
 ## 2. Perfil do usuário (Até dia 18/04)
 
