@@ -49,6 +49,8 @@ Anexe o seu questionário e as respostas obtidas (prints do Google Forms).  Apre
 
 ***2.1. Descrição dos Usuários: Personas***
 
+[tabela perfil do usuario A e B.pdf](https://github.com/lettiebento/disciplina-ihc/files/15068867/tabela.perfil.do.usuario.A.e.B.pdf)
+
 ***Persona A:***
 
 ![Mãe](https://github.com/lettiebento/disciplina-ihc/assets/165064276/175c982c-1fa4-445e-af49-95dd48742efd)
