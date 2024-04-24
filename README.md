@@ -74,9 +74,9 @@ Habilidades: Regina tem habilidades básicas em tecnologia. Ela usa redes sociai
 
 ***Persona B:***
 
-Nome: Silvia Martins
-
 ![Professora](https://github.com/lettiebento/disciplina-ihc/assets/165064276/3de67e17-e1fd-44ae-bc58-d65180c0a04a)
+
+Nome: Silvia Martins
 
 Idade: 43 anos
 
