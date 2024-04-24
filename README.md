@@ -110,7 +110,11 @@ Habilidades: Valentina tem habilidades intermediárias com tecnologia e também 
 
 ***2.2. Análise de Tarefas: ANTES***
 
-Apresente uma análise  de como as tarefas são atualmente realizadas pelo usuário, ou seja, sem o sistema que você pretende desenvolver. A coleta de dados para essa análise deve ser baseada na parte 1 do projeto. Apresente o resultado na forma de um cenário textual ou pictográfico (*storyboard*).
+Regina é uma mãe solteira que passa a maior parte do tempo no trabalho. Apesar de sua familiaridade com as redes sociais e de ter conhecimento básico em tecnologia, ela se sente perdida com a quantidade de mensagens da escola e do trabalho chegando em seu WhatsApp. Isso faz com que ela perca informações essenciais para acompanhar o desempenho acadêmico do filho, como notas, eventos escolares e comunicados da instituição.
+
+Silvia é uma professora do ensino médio que está em busca de incorporar a tecnologia em seu serviço, pois atualmente ela ainda utiliza métodos tradicionais, como passar as notas, provas e recados tudo em papel. No entanto, diante da variedade de opções de sistemas disponíveis, ela se vê indecisa sobre qual seria a melhor e mais fácil de integrar em seu trabalho e no dia a dia.
+
+Valentina é uma aluna dedicada, porém enfrenta dificuldades para encontrar ou adquirir materiais que possam aprimorar seus estudos. Além disso, ela só tem o tempo das aulas presenciais para tirar dúvidas e conversar com os professores, e ainda recebe todas as notas, provas e trabalhos em papel.
 
 ***2.3. Análise de Tarefas: DEPOIS***
 
