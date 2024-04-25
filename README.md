@@ -35,6 +35,7 @@ O Plurall é uma plataforma educacional oferecida para as escolas parceiras da S
 
 ***1.2.  Público Alvo***
 
+
 Realize uma pesquisa sobre os seus potenciais usuários considerando as alternativas abaixo:
 
 **Questionário**
@@ -42,7 +43,7 @@ Realize uma pesquisa sobre os seus potenciais usuários considerando as alternat
 
 [Respostas do Formulário.pdf](https://github.com/lettiebento/disciplina-ihc/files/15098301/Respostas.do.Formulario.pdf)
 
- Apresente uma análise  resumida das respostas do questionário.  
+[Análise das respostas do questionário.pdf](https://github.com/lettiebento/disciplina-ihc/files/15102539/Analise.das.respostas.do.questionario.pdf)
 
 **Entrevista:** A entrevista foi conduzida exclusivamente com uma mulher de 48 anos que atua como coordenadora pedagógica. Ela utiliza o computador e o celular em seu trabalho, com uma média de 5 horas de uso diário. Ela emprega o WhatsApp como principal meio de comunicação com pais e alunos, utilizando no computador, embora seja originalmente um aplicativo móvel. Apesar da franquia oferecer um software próprio com todas as ferramentas necessárias, tanto os pais quanto colaboradores preferem utilizar o WhatsApp para se comunicar. Ela ressalta que, por ser uma escola de inglês, é necessário ter a prática de conversação e as aulas de reforço devem ser exclusivas, individuais e síncrona com o aluno. O sistema deles também informa as notas, material, frequência do aluno, recados, o que é mais utilizado pelos professores. 
 
