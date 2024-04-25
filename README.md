@@ -112,11 +112,13 @@ Habilidades: Valentina tem habilidades intermediárias com tecnologia e também 
 
 ***2.2. Análise de Tarefas: ANTES***
 
-Regina é uma mãe solteira que passa a maior parte do tempo no trabalho. Apesar de sua familiaridade com as redes sociais e de ter conhecimento básico em tecnologia, ela se sente perdida com a quantidade de mensagens da escola e do trabalho chegando em seu WhatsApp. Isso faz com que ela perca informações essenciais para acompanhar o desempenho acadêmico do filho, como notas, eventos escolares e comunicados da instituição.
+Regina, Silvia e Valentina se encontram em uma reunião na escola para discutir o atual sistema de comunicação e os desafios que cada um enfrenta.
 
-Silvia é uma professora do ensino médio que está em busca de incorporar a tecnologia em seu serviço, pois atualmente ela ainda utiliza métodos tradicionais, como passar as notas, provas e recados tudo em papel. No entanto, diante da variedade de opções de sistemas disponíveis, ela se vê indecisa sobre qual seria a melhor e mais fácil de integrar em seu trabalho e no dia a dia.
+Regina compartilha suas dificuldades em acompanhar o desempenho acadêmico de seu filho devido à sobrecarga de mensagens no WhatsApp, enquanto Silvia expressa sua frustração com os métodos tradicionais de comunicação da escola, que tornam difícil compartilhar informações importantes com os pais e alunos.
 
-Valentina é uma aluna dedicada, porém enfrenta dificuldades para encontrar ou adquirir materiais que possam aprimorar seus estudos. Além disso, ela só tem o tempo das aulas presenciais para tirar dúvidas e conversar com os professores, e ainda recebe todas as notas, provas e trabalhos em papel.
+Valentina, por sua vez, compartilha suas dificuldades em encontrar materiais de estudo adequados para aprimorar seus estudos, especialmente fora do horário das aulas presenciais.
+
+Enquanto discutem, percebem que compartilham desafios semelhantes e reconhecem a necessidade de um sistema de comunicação mais eficaz e integrado, que atenda às necessidades de todos os envolvidos na comunidade escolar.
 
 ***2.3. Análise de Tarefas: DEPOIS***
 
