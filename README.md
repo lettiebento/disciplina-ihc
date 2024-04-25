@@ -120,7 +120,13 @@ Valentina é uma aluna dedicada, porém enfrenta dificuldades para encontrar ou 
 
 ***2.3. Análise de Tarefas: DEPOIS***
 
-Apresente uma análise de como você prevê as tarefas sendo realizadas pelo usuário quando o seu sistema estiver disponível (ou seja, quando ele estivesse 100% implementado). Apresente o resultado na forma de um cenário textual ou pictográfico (*storyboard*).
+Regina, Silvia e Valentina encontram-se reunidas em uma sala, utilizando o novo software que foi desenvolvido para melhorar a comunicação entre escolas e famílias, além de auxiliar no reforço escolar.
+
+Regina, está sentada com seu smartphone, navegando no aplicativo do software. Ela recebe notificações sobre o desempenho acadêmico de seu filho, incluindo suas últimas notas e comunicados da escola. Regina expressa alívio por finalmente conseguir acompanhar as atividades escolares de seu filho de forma organizada, sem perder nenhuma informação importante.
+
+Silvia, está ao lado de Regina, mostrando-lhe como enviar mensagens e comunicados para os pais dos alunos através do aplicativo. Ela explica como é fácil e eficiente usar o sistema para compartilhar notas, provas e recados com os pais, substituindo os métodos tradicionais em papel. Silvia também demonstra como o software a ajuda a planejar e gerenciar suas aulas de forma mais eficaz.
+
+Valentina, está sentada em uma mesa próxima, explorando os recursos de aprendizado adaptativo do software em seu laptop. Ela acessa uma variedade de materiais de estudo, incluindo vídeos educativos, exercícios interativos e uma biblioteca digital com livros eletrônicos. Valentina está animada por ter acesso a tantos recursos educacionais em um só lugar, o que a ajudará a aprimorar seus estudos e alcançar seus objetivos acadêmicos.
 
 **Sugestão:** os storyboards podem ser feitos na versão gratuita da ferramenta StoryboardThat ([https://www.storyboardthat.com/](https://www.storyboardthat.com/storyboard-creator) ).
 
