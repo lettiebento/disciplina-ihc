@@ -130,7 +130,9 @@ Silvia, está ao lado de Regina, mostrando-lhe como enviar mensagens e comunicad
 
 Valentina, está sentada em uma mesa próxima, explorando os recursos de aprendizado adaptativo do software em seu laptop. Ela acessa uma variedade de materiais de estudo, incluindo vídeos educativos, exercícios interativos e uma biblioteca digital com livros eletrônicos. Valentina está animada por ter acesso a tantos recursos educacionais em um só lugar, o que a ajudará a aprimorar seus estudos e alcançar seus objetivos acadêmicos.
 
-**Sugestão:** os storyboards podem ser feitos na versão gratuita da ferramenta StoryboardThat ([https://www.storyboardthat.com/](https://www.storyboardthat.com/storyboard-creator) ).
+**Storyboards:**
+
+![untitled-storyboard-highres](https://github.com/lettiebento/disciplina-ihc/assets/165064276/976b839b-daf1-4b07-8c8d-7ab8a02262ea)
 
 ## 3. Design (Até dia 16/05)
 
