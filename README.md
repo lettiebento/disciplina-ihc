@@ -177,7 +177,7 @@ Protótipo Horizontal:
  
 Funcionalidades Principais: Cadastro de Usuários, Login Seguro, Registro Acadêmico, Consulta de Performance do Aluno, Eventos, Comunicação por Chat, Notificações.
 
-Design de Interface de Usuário (UI) aprimorado, incluindo um layout intuitivo e responsivo para facilitar a navegação em dispositivos móveis e desktops.
+Design de Interface aprimorado, incluindo um layout intuitivo para facilitar a navegação em dispositivos móveis e desktops.
 
 ***3.3. Design preliminar***  
     
