@@ -177,6 +177,8 @@ Protótipo Horizontal:
  
 Funcionalidades Principais: Cadastro de Usuários, Login Seguro, Registro Acadêmico, Consulta de Performance do Aluno, Eventos, Comunicação por Chat, Notificações.
 
+Design de Interface de Usuário (UI) aprimorado, incluindo um layout intuitivo e responsivo para facilitar a navegação em dispositivos móveis e desktops.
+
 ***3.3. Design preliminar***  
     
 ![web-diseing](https://github.com/lettiebento/disciplina-ihc/assets/165064276/cc057f8c-aef2-4c6b-a38b-51fca49d6501)
