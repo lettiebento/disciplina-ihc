@@ -172,23 +172,8 @@ Valentina, está sentada em uma mesa próxima, explorando os recursos de aprendi
 17- O software pode enviar notificações sobre eventos quando a data de realização estiver próxima.
     
 ***3.2. Descrição textual***    
-
-O design do nosso software educacional possui cores agradáveis e focado em interação entre alunos, pais e professores com uma interface intuitiva.
-Algumas das funcionalidades:
-
-1-Cadastro de usuários: Permite o cadstro de alunos, pais e funcionários.
-
-2-Login Seguro
-
-3-Registro acadêmico: Professores podem lançar e editar notas dos alunos no sistema.
-
-4-Consulta de performace do aluno: tanto alunos como seus pais podem consultar notas, frequências do aluno.
-
-5-Eventos: Professores ou a Diretoria podem publicar datas de eventos que a escola irá fazer em uma aba específica
-
-6-Comunicação por Chat: Inclui um chat para comunicação direta
-
-7- Notificações: permite os pais ou alunos receber notificações de eventos/provas/aulas 
+Protótipo Horizontal:
+ Funcionalidades Principais: Cadastro de Usuários, Login Seguro, Registro Acadêmico, Consulta de Performance do Aluno, Eventos, Comunicação por Chat, Notificações.
 
 ***3.3. Design preliminar***  
     
