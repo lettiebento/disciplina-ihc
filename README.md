@@ -172,8 +172,10 @@ Valentina, está sentada em uma mesa próxima, explorando os recursos de aprendi
 17- O software pode enviar notificações sobre eventos quando a data de realização estiver próxima.
     
 ***3.2. Descrição textual***    
+
 Protótipo Horizontal:
- Funcionalidades Principais: Cadastro de Usuários, Login Seguro, Registro Acadêmico, Consulta de Performance do Aluno, Eventos, Comunicação por Chat, Notificações.
+ 
+Funcionalidades Principais: Cadastro de Usuários, Login Seguro, Registro Acadêmico, Consulta de Performance do Aluno, Eventos, Comunicação por Chat, Notificações.
 
 ***3.3. Design preliminar***  
     
