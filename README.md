@@ -177,7 +177,7 @@ Apresente uma descrição textual resumida do seu design.  Quais as funcionalida
 
 ***3.3. Design preliminar***      
 
-Apresente uma ilustrações do design: incluir os desenhos (sketches) das telas relativas à interface do seu sistema. 
+![web-diseing](https://github.com/lettiebento/disciplina-ihc/assets/165064276/9edb92cb-8045-408d-9f5c-d7b7121828fe)
 
 ## 4. Protótipo (Até dia 23/05)
 
