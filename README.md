@@ -173,11 +173,27 @@ Valentina, está sentada em uma mesa próxima, explorando os recursos de aprendi
     
 ***3.2. Descrição textual***    
 
-Apresente uma descrição textual resumida do seu design.  Quais as funcionalidades, principais escolhas de design, dentre outros. 
+O design do nosso software educacional possui cores agradáveis e focado em interação entre alunos, pais e professores com uma interface intuitiva.
+Algumas das funcionalidades:
 
-***3.3. Design preliminar***      
+1-Cadastro de usuários: Permite o cadstro de alunos, pais e funcionários.
 
-![web-diseing](https://github.com/lettiebento/disciplina-ihc/assets/165064276/9edb92cb-8045-408d-9f5c-d7b7121828fe)
+2-Login Seguro
+
+3-Registro acadêmico: Professores podem lançar e editar notas dos alunos no sistema.
+
+4-Consulta de performace do aluno: tanto alunos como seus pais podem consultar notas, frequências do aluno.
+
+5-Eventos: Professores ou a Diretoria podem publicar datas de eventos que a escola irá fazer em uma aba específica
+
+6-Comunicação por Chat: Inclui um chat para comunicação direta
+
+7- Notificações: permite os pais ou alunos receber notificações de eventos/provas/aulas 
+
+***3.3. Design preliminar***  
+    
+![web-diseing](https://github.com/lettiebento/disciplina-ihc/assets/165064276/cc057f8c-aef2-4c6b-a38b-51fca49d6501)
+
 
 ## 4. Protótipo (Até dia 23/05)
 
