@@ -180,9 +180,8 @@ Funcionalidades Principais: Cadastro de Usuários, Login Seguro, Registro Acadê
 Design de Interface aprimorado, incluindo um layout intuitivo para facilitar a navegação em dispositivos móveis e desktops.
 
 ***3.3. Design preliminar***  
-    
-![web-diseing](https://github.com/lettiebento/disciplina-ihc/assets/165064276/cc057f8c-aef2-4c6b-a38b-51fca49d6501)
 
+![Cadastro e Login](https://github.com/lettiebento/disciplina-ihc/assets/165064276/b09551e6-2948-45ec-962a-c06ef6882c0a)
 
 ## 4. Protótipo (Até dia 23/05)
 
