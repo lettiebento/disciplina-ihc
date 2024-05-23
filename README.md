@@ -185,7 +185,7 @@ Design de Interface aprimorado, incluindo um layout intuitivo para facilitar a n
 
 ## 4. Protótipo (Até dia 23/05)
 
-[Apresentar o protótipo "em uso". Seu protótipo deve ser construído utilizando o Figma. ](https://www.figma.com/design/opzzmA0r9anHobpp3ukjlf/Aplicativo-escola?node-id=0%3A1&t=ua7PHKBQBr6bk0NO-1)
+https://www.figma.com/proto/opzzmA0r9anHobpp3ukjlf/Aplicativo-escola?node-id=2002-956&t=VVtnudJDzn8i6cjq-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2002%3A956
 
 ## 5. Avaliação e Re-Design (Até dia 13/06)
 
