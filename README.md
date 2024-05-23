@@ -177,7 +177,7 @@ Design de Interface aprimorado, incluindo um layout intuitivo para facilitar a n
 
 ***3.3. Design preliminar***  
 
-![Cadastro e Login](https://github.com/lettiebento/disciplina-ihc/assets/165064276/b09551e6-2948-45ec-962a-c06ef6882c0a)
+![WhatsApp Image 2024-05-23 at 15 28 05](https://github.com/lettiebento/disciplina-ihc/assets/165064276/08aa4d97-890f-41bf-abb4-6b2ee1dcaa9a)
 
 ## 4. Protótipo (Até dia 23/05)
 
