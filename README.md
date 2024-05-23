@@ -137,7 +137,7 @@ Valentina, está sentada em uma mesa próxima, explorando os recursos de aprendi
 
 ***3.1. Requisitos Funcionais***
 
-1- O software deve permitir o cadastro de alunos, pais e funcionários.
+1- O software deve permitir o cadastro dos pais ou responsáveis.
 
 2- O software não deve permitir o cadastro caso as informações estejam incompletas e/ou incorretas.
 
@@ -151,7 +151,7 @@ Valentina, está sentada em uma mesa próxima, explorando os recursos de aprendi
 
 7- O software deve permitir que o professor registre ou edite as notas do aluno no sistema.
 
-8- O software deve permitir que o professor poste os futuros eventos acadêmicos numa aba específica do aplicativo.
+8- O software deve permitir que o professor poste os futuros eventos acadêmicos.
 
 9- O software deve permitir que o aluno consulte seus dados no sistema.
 
@@ -159,17 +159,13 @@ Valentina, está sentada em uma mesa próxima, explorando os recursos de aprendi
 
 11- O software não deve permitir que pais ou alunos tenham acesso a dados de outras pessoas.
 
-12- O software deve possuir um 'chat' para a comunicação com professores.
+12- O software deve possuir um 'chat' para a comunicação com a escola.
 
-13- O software deve permitir que os pais e alunos enviem mensagens no chat após filtrar o professor desejado.
+13- O software deve permitir que o professor responda as mensagens recebidas.
 
-14- O software deve permitir que o professor responda as mensagens recebidas.
+14- O software pode enviar notificações de mensagens.
 
-15- O software deve possuir uma aba específica para eventos da instituição de ensino.
-
-16- O software pode enviar notificações de mensagens para os usuários.
-
-17- O software pode enviar notificações sobre eventos quando a data de realização estiver próxima.
+15- O software pode enviar notificações sobre eventos quando a data de realização estiver próxima.
     
 ***3.2. Descrição textual***    
 
