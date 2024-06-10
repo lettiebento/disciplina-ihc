@@ -187,19 +187,26 @@ https://www.figma.com/proto/opzzmA0r9anHobpp3ukjlf/Aplicativo-escola?node-id=200
 
 ***5.1. Avaliação com usuários*** 
 
-Esta avaliação consiste na aplicação do método Think  Aloud com dois usuários. Vocês devem gravar o áudio do usuário e a tela do protótipo durante o teste.
+***O que se deseja obter?***
+	Uma opinião sincera do usuário, a fim de fornecer informações importantes a respeito do atual design do projeto. É esperado que seja possível perceber caso haja alguma falha para o usuário durante o uso, para que possa ser ajustada. Esperamos que seja possível acessar facilmente as funcionalidades do sistema, e, caso contrário, desejamos compreender quais os empecilhos encontrados e qual seriam os ajustes adequados.
 
--   Apresentar um vídeo de 3 minutos que resume os principais problemas encontrados.    
+***Quando e onde vai acontecer?***
+	Será realizado um teste na residência de um familiar de um dos integrantes do grupo, no dia XX. 
 
-ANTES de conduzir o teste, defina as seguintes questões:
+***Qual a duração prevista de cada sessão?***
+	De 5 a 10 minutos.
 
--   O que se deseja obter?    
--   Quando e onde vai acontecer?    
--   Qual a duração prevista de cada sessão?    
--   Qual o estado do sistema no início do teste?    
--   Quem serão os usuários?    
--   Quais tarefas serão solicitadas aos usuários?    
--   Qual critério será utilizado para decidir que os usuários terminaram cada tarefa corretamente?    
+***Qual o estado do sistema no início do teste?***
+	O protótipo está quase completo e conta com todas as principais funcionalidades.
+
+***Quem serão os usuários?***
+	Alunos, responsáveis e professores. No caso do teste, será um usuário que representa um professor.
+
+***Quais tarefas serão solicitadas aos usuários?***
+	Navegar pelo aplicativo e interagir com as funcionalidades, explicando em voz alta o que deseja fazer e o resultado obtido ao tentar utilizar o sistema.
+
+***Qual critério será utilizado para decidir que os usuários terminaram cada tarefa corretamente?***
+	O resultado ser o esperado, ou seja, o usuário deve dizer em voz alta qual o resultado da ação e se isso era realmente o que ele desejava fazer, por exemplo, o usuário diz "Vou verificar o boletim" e após realizar ação correspondente diz "Abri a tela que mostra o boletim". Além disso, será avaliado o tempo gasto para realizar a tarefa, considerando um tempo muito alto para achar e utilizar corretamente uma funcionalidade como algo que precisa ser aprimorado no sistema.   
 
 Por fim, os resultados devem ser analisados e apresentados da seguinte forma:
 
@@ -207,10 +214,3 @@ Por fim, os resultados devem ser analisados e apresentados da seguinte forma:
 -   Resumir os resultados das avaliações com análise crítica referente a se os princípios e metas de usabilidade considerados importantes para o seu sistema foram satisfeitos ou não.
 - Apresentar uma análise crítica da avaliação realizada, com identificação de problemas e sugestões de melhorias (quais modificações devem ser realizadas na próxima versão do protótipo?).
 
-## Referências
-
-*<Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>*
-
-[1] “Glossário da _USina_”, <_id_doc glossário_>, Versão <_versão_>. Localização: <_localização_>.
-
-[2] Stackedit.io <edição de texto para o GitHub>
