@@ -191,7 +191,7 @@ https://www.figma.com/proto/opzzmA0r9anHobpp3ukjlf/Aplicativo-escola?node-id=200
 	Uma opinião sincera do usuário, a fim de fornecer informações importantes a respeito do atual design do projeto. É esperado que seja possível perceber caso haja alguma falha para o usuário durante o uso, para que possa ser ajustada. Esperamos que seja possível acessar facilmente as funcionalidades do sistema, e, caso contrário, desejamos compreender quais os empecilhos encontrados e qual seriam os ajustes adequados.
 
 ***Quando e onde vai acontecer?***
-	Será realizado um teste na residência de um familiar de um dos integrantes do grupo, no dia XX. 
+	Será realizado um teste na residência de um familiar de um dos integrantes do grupo. 
 
 ***Qual a duração prevista de cada sessão?***
 	De 5 a 10 minutos.
@@ -214,7 +214,13 @@ Por fim, os resultados devem ser analisados e apresentados da seguinte forma:
 
 https://drive.google.com/file/d/1fWxvKpPvw4zEDALzOmqLg9qUtwKT0cpG/view?usp=sharing
 
--   Descrever  a avaliação e os resultados obtidos (quais problemas foram identificados no seu design?).    
+A professora considerou que o login está fácil de visualizar e entender. Não foram identificados problemas nessa etapa;
+A professora elogiou a facilidade de visualização e a disposição das informações no menu principal, indicando que está bem organizado. Não foram identificados problemas nessa etapa;
+A funcionalidade do bate-papo e do boletim foi considerada completa e fácil de acessar. Não foram identificados problemas nessa etapa;
+As notificações são claras, mas a professora sugeriu que poderiam incluir um pouco mais de informação descritiva do assunto notificado.
+
+Foi indentificado problema na Notificações de eventos: a professora sugeriu ter mais informações do assunto notificado, o que pode ser feito como melhoria é incluir a opção de abrir a notificação em uma nova página e ter um texto com as informações completas do assunto.
+
 -   Resumir os resultados das avaliações com análise crítica referente a se os princípios e metas de usabilidade considerados importantes para o seu sistema foram satisfeitos ou não.
-- Apresentar uma análise crítica da avaliação realizada, com identificação de problemas e sugestões de melhorias (quais modificações devem ser realizadas na próxima versão do protótipo?).
+
 
