@@ -210,6 +210,10 @@ https://www.figma.com/proto/opzzmA0r9anHobpp3ukjlf/Aplicativo-escola?node-id=200
 
 Por fim, os resultados devem ser analisados e apresentados da seguinte forma:
 
+***Audio da professora testando o aplicativo:***
+
+https://drive.google.com/file/d/1fWxvKpPvw4zEDALzOmqLg9qUtwKT0cpG/view?usp=sharing
+
 -   Descrever  a avaliação e os resultados obtidos (quais problemas foram identificados no seu design?).    
 -   Resumir os resultados das avaliações com análise crítica referente a se os princípios e metas de usabilidade considerados importantes para o seu sistema foram satisfeitos ou não.
 - Apresentar uma análise crítica da avaliação realizada, com identificação de problemas e sugestões de melhorias (quais modificações devem ser realizadas na próxima versão do protótipo?).
