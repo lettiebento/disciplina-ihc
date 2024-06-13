@@ -214,7 +214,7 @@ Por fim, os resultados devem ser analisados e apresentados da seguinte forma:
 
 https://drive.google.com/file/d/1fWxvKpPvw4zEDALzOmqLg9qUtwKT0cpG/view?usp=sharing
 
-A professora considerou que o login está fácil de visualizar e entender. Não foram identificados problemas nessa etapa;
+A professora considerou que o cadastro e o login está fácil de visualizar e entender. Não foram identificados problemas nessa etapa;
 A professora elogiou a facilidade de visualização e a disposição das informações no menu principal, indicando que está bem organizado. Não foram identificados problemas nessa etapa;
 A funcionalidade do bate-papo e do boletim foi considerada completa e fácil de acessar. Não foram identificados problemas nessa etapa;
 As notificações são claras, mas a professora sugeriu que poderiam incluir um pouco mais de informação descritiva do assunto notificado.
