@@ -223,12 +223,12 @@ Foi indentificado problema na Notificações de eventos: a professora sugeriu te
 
 Desenvolvemos um aplicativo seguindo os Princípios de Design de Don Norman para proporcionar uma experiência de usuário intuitiva e eficiente. Aqui está como cada princípio foi implementado:
 
-Visibilidade: Elementos importantes, como ícones e botões, são claramente visíveis e facilmente acessíveis, facilitando a navegação.
-Feedback: O aplicativo fornece feedback visual, auditivo e tátil para informar os usuários sobre ações realizadas, como o envio de mensagens e recebimento de notificações.
-Restrições: Restrições foram aplicadas para prevenir erros, como a desativação de botões de envio até que todos os campos obrigatórios sejam preenchidos.
-Consistência: Mantivemos uma interface consistente em termos de cores, ícones e layout, facilitando o uso e aprendizado do aplicativo.
-Affordance: Elementos de interface foram projetados para sugerir claramente suas funções, como ícones de mensagens e calendários que indicam suas funcionalidades intuitivamente.
-Mapeamento: Controles e ações estão logicamente mapeados, com ícones e botões posicionados de maneira intuitiva para corresponder às suas funções.
+- Visibilidade: Elementos importantes, como ícones e botões, são claramente visíveis e facilmente acessíveis, facilitando a navegação.
+- Feedback: O aplicativo fornece feedback visual, auditivo e tátil para informar os usuários sobre ações realizadas, como o envio de mensagens e recebimento de notificações.
+- Restrições: Restrições foram aplicadas para prevenir erros, como a desativação de botões de envio até que todos os campos obrigatórios sejam preenchidos.
+- Consistência: Mantivemos uma interface consistente em termos de cores, ícones e layout, facilitando o uso e aprendizado do aplicativo.
+- Affordance: Elementos de interface foram projetados para sugerir claramente suas funções, como ícones de mensagens e calendários que indicam suas funcionalidades intuitivamente.
+- Mapeamento: Controles e ações estão logicamente mapeados, com ícones e botões posicionados de maneira intuitiva para corresponder às suas funções.
 
 Esses princípios garantem que o aplicativo seja fácil de usar, intuitivo e eficiente, melhorando a comunicação entre a escola e os pais.
 
