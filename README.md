@@ -12,11 +12,7 @@ Letícia Bento Pinto - lettiebento
 
 Samilly Emanuelle Lopes de Deus - SammyManu
 
-João Flavio Loureiro Silva - skgaa
-
 Pedro Henrique de Oliveira Bicalho - PedroBiklho
-
-João Marcelo Seron Junqueira Amorin - Jmsja10
 
 
 ***1.2.  Problema***
